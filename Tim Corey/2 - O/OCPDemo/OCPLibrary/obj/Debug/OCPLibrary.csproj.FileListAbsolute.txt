@@ -1,0 +1,6 @@
+C:\Kenji\Projetos\MeusProjetosPessoais\OCPDemo\OCPLibrary\bin\Debug\OCPLibrary.dll
+C:\Kenji\Projetos\MeusProjetosPessoais\OCPDemo\OCPLibrary\bin\Debug\OCPLibrary.pdb
+C:\Kenji\Projetos\MeusProjetosPessoais\OCPDemo\OCPLibrary\obj\Debug\OCPLibrary.csproj.CoreCompileInputs.cache
+C:\Kenji\Projetos\MeusProjetosPessoais\OCPDemo\OCPLibrary\obj\Debug\OCPLibrary.dll
+C:\Kenji\Projetos\MeusProjetosPessoais\OCPDemo\OCPLibrary\obj\Debug\OCPLibrary.pdb
+C:\Kenji\Projetos\MeusProjetosPessoais\OCPDemo\OCPLibrary\obj\Debug\OCPLibrary.csprojAssemblyReference.cache
