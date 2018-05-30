@@ -1,7 +1,0 @@
-C:\Kenji\Projetos\MeusProjetosPessoais\SOLID\Tim Corey\1 - S\SRPDemo_Ajustado\SRPDemo\bin\Debug\SRPDemo.exe.config
-C:\Kenji\Projetos\MeusProjetosPessoais\SOLID\Tim Corey\1 - S\SRPDemo_Ajustado\SRPDemo\bin\Debug\SRPDemo.exe
-C:\Kenji\Projetos\MeusProjetosPessoais\SOLID\Tim Corey\1 - S\SRPDemo_Ajustado\SRPDemo\bin\Debug\SRPDemo.pdb
-C:\Kenji\Projetos\MeusProjetosPessoais\SOLID\Tim Corey\1 - S\SRPDemo_Ajustado\SRPDemo\obj\Debug\SRPDemo.csprojAssemblyReference.cache
-C:\Kenji\Projetos\MeusProjetosPessoais\SOLID\Tim Corey\1 - S\SRPDemo_Ajustado\SRPDemo\obj\Debug\SRPDemo.csproj.CoreCompileInputs.cache
-C:\Kenji\Projetos\MeusProjetosPessoais\SOLID\Tim Corey\1 - S\SRPDemo_Ajustado\SRPDemo\obj\Debug\SRPDemo.exe
-C:\Kenji\Projetos\MeusProjetosPessoais\SOLID\Tim Corey\1 - S\SRPDemo_Ajustado\SRPDemo\obj\Debug\SRPDemo.pdb
